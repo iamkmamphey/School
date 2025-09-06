@@ -1,4 +1,4 @@
-
+<h1>
 <section id="chapter8">
     <h2>Chapter 8: The Refining Fire of the Process</h2>
     <blockquote>“For you, O God, have tested us; you have tried us as silver is tried… yet you have brought us out to a place of abundance.” — Psalm 66:10–12</blockquote>
